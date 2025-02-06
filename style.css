@@ -1,0 +1,31 @@
+/* 
+    id = #id
+    class = .class
+    tag = tag
+*/
+
+#headings-container {
+    background-color: rgb(49, 97, 55);
+}
+.h1-sample {
+    color: red;
+}
+h2 {
+    font-style: italic
+}
+p, h2 {
+    color: blue;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(177, 146, 146);
+    width: 100%;
+    text-align: center;
+    font-size: 45px;
+    padding: 14px;
+}
+
+.flexbox {
+    display: flex
+}
